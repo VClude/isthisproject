@@ -217,7 +217,7 @@ public class DBMainMenu extends javax.swing.JFrame {
 
     private void reserveMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_reserveMouseClicked
         this.dispose();
-        new reservieren.vonnach().setVisible(true);
+        new isthisproject.category().setVisible(true);
         // TODO add your handling code here:
     }//GEN-LAST:event_reserveMouseClicked
 
@@ -227,8 +227,7 @@ public class DBMainMenu extends javax.swing.JFrame {
     }//GEN-LAST:event_exitMouseClicked
 
     private void adminBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_adminBtnActionPerformed
-        this.dispose();
-        new administrator.login().setVisible(true);// TODO add your handling code here:
+
     }//GEN-LAST:event_adminBtnActionPerformed
 
     /**
